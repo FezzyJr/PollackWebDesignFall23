@@ -1,0 +1,99 @@
+#homepagebody {
+    background-color: lightblue;
+    transition: 1s;
+    background-image: linear-gradient(lightgreen, lightblue);
+    background-repeat: no-repeat;
+}
+
+#organizationsbody {
+    background-color: red;
+    transition: 1s;
+    background-image: linear-gradient(orange, red);
+    background-repeat: no-repeat;
+}
+#statisticsbody{
+    background-color: lightblue;
+    transition: 1s;
+    background-image: linear-gradient(darkblue, lightblue);
+    background-repeat: no-repeat;
+}
+#statisticstitle{
+    color: orange;
+}
+
+#organizationsair:hover {
+    width: 800px;
+}
+
+p:hover {
+    font-size: 25px;
+}
+
+a {
+    color: white;
+}
+
+p {
+    font-size: larger;
+    color: darkblue;
+    transition: 3s;
+}
+
+img {
+    width: 400px;
+    transition: 5s;
+}
+
+main {
+    padding: 10px;
+    margin: 15px;
+}
+
+#smoke:hover {
+    width: 800px;
+}
+
+#smoke {
+    border-style: groove;
+    border-width: 10px;
+}
+
+h2 {
+    color: red;
+}
+
+#antler {
+    border: 10px;
+    border-style: double;
+    border-color: greenyellow;
+}
+
+#polluteddeer {
+    border: 10px;
+    border-style: groove;
+    border-color: red;
+}
+
+#healthy {
+    color: greenyellow;
+}
+
+#homepagetitle {
+    color: forestgreen;
+}
+
+#organizations {
+    background-color: lightskyblue;
+}
+#worldmappollution:hover{
+    width: 800px;
+}
+#airgraph1:hover{
+    width: 800px;
+}
+#airgraph2:hover{
+    width: 800px;
+}
+.orangetext{
+    color:orange
+}

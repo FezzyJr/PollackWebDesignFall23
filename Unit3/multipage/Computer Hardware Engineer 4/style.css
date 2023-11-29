@@ -1,0 +1,28 @@
+h3{
+    text-transform: uppercase;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(https://live.staticflickr.com/7329/9595278129_80e622a87a_b.jpg);
+}
+a {
+    font-size: 16px;
+    font-style: italic;
+}
+header{
+    border-style: solid;
+    background-color: lightblue;
+}
+main{
+    background-color: lightblue;
+    width: 70%;
+    height: 80%
+    
+}
+footer{
+    background-color: lightblue;
+}
+.job-title{
+    font-weight: bold;
+    color: maroon;
+}
