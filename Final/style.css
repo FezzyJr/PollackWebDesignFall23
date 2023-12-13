@@ -1,0 +1,51 @@
+.Homepagetitle{
+    background-color: ghostwhite;
+}
+.Homepagebody{
+    background-color: gold;
+    transition: 3s;
+    background-image: linear-gradient(gold, goldenrod);
+    background-repeat: no-repeat;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    transition: 3s;
+}
+#RoaldDahl:hover{
+height: 600px;
+width: 500px;
+transition: 3s;
+}
+img{
+    height:500px;
+    width:400px;
+    transition: 3s;
+}
+p:hover {
+    font-size: 25px;
+    transition: 3s;
+}
+#Contactbody{
+    background-color: tomato;
+}
+a {
+    color: white;
+}
+p{
+font-size: 15px;
+transition: 3s;
+}
+i{
+    color: purple;
+}
+.Booksbody{
+    background-color: lightgreen;
+}
+.AboutAuthorbody{
+    background-color: cornflowerblue;
+}
+.headerauthor{
+    color: tan;
+}
